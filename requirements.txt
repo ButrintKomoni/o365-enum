@@ -1,0 +1,7 @@
+argparse
+requests
+json
+re
+email_split
+colorama
+termcolor
